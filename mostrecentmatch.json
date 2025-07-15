@@ -1,9 +1,9 @@
 {
-    "Carpincho": "Carpincho encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=6446904&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))",
-    "alanthekat": "alanthekat encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=1263162&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))",
-    "thexcarpincho": "thexcarpincho encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=18660623&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))",
-    "Dicopato": "Dicopato encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=255507&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))",
-    "Dicopatito": "Dicopatito encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=6237950&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))",
-    "Nanox": "Nanox encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=439001&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))",
-    "Sir Monkey": "Sir Monkey encountered an API error: HTTPSConnectionPool(host='data.aoe2companion.com', port=443): Max retries exceeded with url: /api/matches?profile_ids=903496&search=&page=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))"
+    "Carpincho": "Carpincho finished playing at 00:33 2025\\-05\\-28",
+    "alanthekat": "alanthekat finished playing at 16:47 2025\\-06\\-07",
+    "thexcarpincho": "thexcarpincho finished playing at 17:21 2025\\-06\\-07",
+    "Dicopato": "Dicopato finished playing at 08:47 2025\\-04\\-26",
+    "Dicopatito": "Dicopatito finished playing at 10:20 2025\\-07\\-14",
+    "Nanox": "Nanox finished playing at 23:56 2025\\-07\\-14",
+    "Sir Monkey": "Sir Monkey finished playing at 04:19 2025\\-07\\-15"
 }
