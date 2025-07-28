@@ -1,9 +1,9 @@
 {
-    "Carpincho": "Carpincho finished playing at 00:33 2025\\-05\\-28",
-    "alanthekat": "alanthekat finished playing at 16:47 2025\\-06\\-07",
-    "thexcarpincho": "thexcarpincho finished playing at 17:21 2025\\-06\\-07",
-    "Dicopato": "Dicopato finished playing at 08:47 2025\\-04\\-26",
-    "Dicopatito": "Dicopatito finished playing at 07:17 2025\\-07\\-28",
-    "Nanox": "Nanox finished playing at 23:57 2025\\-07\\-22",
-    "Sir Monkey": "Sir Monkey finished playing at 04:52 2025\\-07\\-26"
+    "Carpincho": "Carpincho encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=6446904&search=&page=1",
+    "alanthekat": "alanthekat encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=1263162&search=&page=1",
+    "thexcarpincho": "thexcarpincho encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=18660623&search=&page=1",
+    "Dicopato": "Dicopato encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=255507&search=&page=1",
+    "Dicopatito": "Dicopatito encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=6237950&search=&page=1",
+    "Nanox": "Nanox encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=439001&search=&page=1",
+    "Sir Monkey": "Sir Monkey encountered an API error: 403 Client Error: Forbidden for url: https://data.aoe2companion.com/api/matches?profile_ids=903496&search=&page=1"
 }
